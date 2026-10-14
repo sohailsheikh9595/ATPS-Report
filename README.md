@@ -1,4 +1,3 @@
-Sure. For your GitHub README, you can use this professional description:
 
 ## 📊 ATPS Sales & Analytics Dashboard
 
