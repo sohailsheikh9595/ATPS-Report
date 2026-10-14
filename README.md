@@ -26,6 +26,6 @@ An interactive **Power BI Sales & Analytics Dashboard** designed to provide a co
 The objective of this dashboard is to transform raw sales data into **actionable business insights**, helping stakeholders understand sales performance, profitability, customer-segment contribution, and overall business trends.
 
 ### 📌 Dashboard Preview
+<img width="1345" height="1170" alt="ATPS Analytics" src="https://github.com/user-attachments/assets/4f97c93c-e7d9-491c-8e3b-371992a24888" />
 
-<img width="766" height="667" alt="ATPS Template" src="https://github.com/user-attachments/assets/e6fd14b6-84af-4bfa-ba28-3e9d7711b523" />
 
