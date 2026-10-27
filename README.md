@@ -127,16 +127,6 @@ Open the dashboard file using the relevant BI or reporting application.
 Load or connect the required sales dataset, if applicable.
 Refresh the data and validate the measures.
 Use the available filters and visualizations to explore sales performance.
-📁 Project Structure
-text
-ATPS-Sales-Performance-Dashboard/
-├── README.md
-├── images/
-│   └── sales-performance-dashboard.png
-└── dashboard-file
-
-
-Replace dashboard-file with the actual report filename and add the dashboard screenshot to the images folder.
 
 📷 Dashboard Preview
 
@@ -147,5 +137,5 @@ Replace dashboard-file with the actual report filename and add the dashboard scr
 
 Sohail Sheikh
 
-Specify an appropriate license if you intend to distribute or reuse this project publicly.
+
 
