@@ -141,14 +141,12 @@ Replace dashboard-file with the actual report filename and add the dashboard scr
 
 📷 Dashboard Preview
 
-Add a screenshot of the dashboard here to showcase the report directly on your GitHub repository.
+<img width="766" height="603" alt="ATPS Sales Performance Template" src="https://github.com/user-attachments/assets/31a282a7-c9a4-4a14-ab48-26b6e84f67d4" />
+
 
 👤 Author
 
 Sohail Sheikh
-
-GitHub: Your GitHub Profile
-📄 License
 
 Specify an appropriate license if you intend to distribute or reuse this project publicly.
 
