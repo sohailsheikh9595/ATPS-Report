@@ -27,10 +27,9 @@ The objective of this dashboard is to transform raw sales data into **actionable
 ### 📌 Dashboard Preview
 <img width="1345" height="1170" alt="ATPS Analytics" src="https://github.com/user-attachments/assets/4f97c93c-e7d9-491c-8e3b-371992a24888" />
 
+<HR><BR>
 
-
-
-ATPS Sales Performance Dashboard
+## 📊ATPS Sales Performance Dashboard
 📊 Overview
 
 The ATPS Sales Performance Dashboard is an interactive business intelligence report designed to monitor and analyze sales performance across products, regions, customer segments, and discount categories. It provides a consolidated view of key performance indicators (KPIs), helping users understand sales trends, profitability, product performance, and regional contributions.
